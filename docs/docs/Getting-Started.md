@@ -7,7 +7,7 @@ Hello Newcomer, here are some tips to help you get started contributing to this 
 ## Get to know the project
 
 Here's what you can do to know more about the project:
-- Read Documentation available on [Mentorship Backend Docs](/) and [README](https://github.com/systers/mentorship-backend/blob/develop/README.md);
+- Read Documentation available on [Mentorship Backend Docs](https://github.com/anitab-org/mentorship-backend/blob/develop/docs/docs/Mentorship-Relation-Documentation.md) and [README](https://github.com/systers/mentorship-backend/blob/develop/README.md);
 - You can join the [#mentorship-system](https://systers-opensource.slack.com/messages/CAE8QK41L/) channel on [Systers Open Source Slack](http://systers.io/slack-systers-opensource/), to see or participate in the project's discussion;
 - You can browse the code on GitHub or even on your workspace after [cloning it](Fork,-Clone-&-Remote#clone).
 
