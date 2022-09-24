@@ -24,9 +24,9 @@ Before you start working check the [Contribution Guidelines](https://github.com/
 
 **In short:**
 
-1. [Fork the project](Fork,-Clone-&-Remote#fork) into your profile;
-2. [Clone the project](Fork,-Clone-&-Remote#clone) into your workspace on your computer;
-3. [Setup remotes](Fork,-Clone-&-Remote#remote) to keep your `develop` branch with systers repository;
+1. [Fork the project]([Fork,-Clone-&-Remote#fork](https://github.com/anitab-org/mentorship-backend/blob/develop/docs/docs/Fork%2C-Clone-%26-Remote.md)) into your profile;
+2. [Clone the project]([Fork,-Clone-&-Remote#clone](https://github.com/anitab-org/mentorship-backend/blob/develop/docs/docs/Fork%2C-Clone-%26-Remote.md)) into your workspace on your computer;
+3. [Setup remotes]([Fork,-Clone-&-Remote#remote](https://github.com/anitab-org/mentorship-backend/blob/develop/docs/docs/Fork%2C-Clone-%26-Remote.md)) to keep your `develop` branch with systers repository;
 4. Create a specific branch based from `develop` branch for your specific feature;
 5. Start coding;
 6. Make sure you follow this [Commit Message Style Guide](Commit-Message-Style-Guide);
